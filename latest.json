@@ -6,7 +6,7 @@
         "SwitchsData.json": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SwitchsData.json",
         "SNIBypassCrt.crt": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassCrt.crt",
         "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
-        "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/SNIBypassGUI.exe"
+        "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
     },
     "release_notes": "加入了自动更新与提交反馈功能，更换字体并美化窗体。"
 }
