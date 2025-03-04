@@ -1,12 +1,13 @@
 {
-    "version": "3.8",
-    "files": {
-        "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
-        "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
-        "SwitchsData.json": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SwitchsData.json",
-        "SNIBypassCrt.crt": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassCrt.crt",
-        "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
-        "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
-    },
-    "release_notes": "加入了自动更新与提交反馈功能，更换字体并美化窗体。"
+  "version": "3.8",
+  "files": {
+    "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
+    "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
+    "SwitchData.json": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SwitchsData.json",
+    "SNIBypassCrt.crt": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassCrt.crt",
+    "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
+    "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
+  },
+  "release_notes": "加入了自动更新与提交反馈功能，更换字体并美化窗体。",
+  "sha256": "3dfa4a6c0548cf0f2ba22be07a77796d8d0afde3e931b52baf59d4a1ba19e54c"
 }
