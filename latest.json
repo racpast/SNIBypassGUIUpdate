@@ -9,5 +9,5 @@
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
   "release_notes": "加入了自动更新与提交反馈功能，更换字体并美化窗体。",
-  "sha256": "f312f8f8d66f4632eeddaa7c7b9914368f04f4d6675f013fdbac304bea2eee5e"
+  "sha256": "43019f214b2acea6dc788d2b95eec0c06848d36d80550dc700c4b2502263da61"
 }
