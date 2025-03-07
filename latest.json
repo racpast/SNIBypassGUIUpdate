@@ -8,6 +8,6 @@
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "修复了选择适配器会被刷掉的问题。",
-  "sha256": "f7796018ef18f3bd2080fd34d4f847f2b8fc844babbd339bb9a1b88cf7b4c7bf"
+  "release_notes": "更新ExHentai的IP地址。",
+  "sha256": "e6a32e653e5e45beee07cbba666be0f3d5a8344961ed632957b7df7faca41b08"
 }
