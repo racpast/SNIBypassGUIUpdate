@@ -1,5 +1,5 @@
 {
-  "version": "V3.8",
+  "version": "V3.8.1",
   "files": {
     "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
     "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
@@ -8,6 +8,6 @@
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "加入了自动更新与提交反馈功能，更换字体并美化窗体。",
-  "sha256": "43019f214b2acea6dc788d2b95eec0c06848d36d80550dc700c4b2502263da61"
+  "release_notes": "修复了选择适配器会被刷掉的问题。",
+  "sha256": "f7796018ef18f3bd2080fd34d4f847f2b8fc844babbd339bb9a1b88cf7b4c7bf"
 }
