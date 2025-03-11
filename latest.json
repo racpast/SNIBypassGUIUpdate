@@ -1,5 +1,5 @@
 {
-  "version": "V3.9",
+  "version": "V4.0",
   "files": {
     "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
     "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
@@ -8,6 +8,6 @@
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "添加对Discord、Telegram的支持，修复了一些Bug，完善软件机制。",
-  "sha256": "a1915e612cdf7daf172f646439ed81910ef6c4756bf304914bfa7939be122793"
+  "release_notes": "更换主更新服务器，修复了一些问题。",
+  "sha256": "074365ac2583beefbd1e328ab65e150405caefef68821b4efb0a21aca29ede4e"
 }
