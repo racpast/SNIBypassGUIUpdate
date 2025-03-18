@@ -1,5 +1,5 @@
 {
-  "version": "V4.0",
+  "version": "V4.1",
   "files": {
     "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
     "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
@@ -8,6 +8,6 @@
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "更换主更新服务器，修复了一些问题。",
-  "sha256": "074365ac2583beefbd1e328ab65e150405caefef68821b4efb0a21aca29ede4e"
+  "release_notes": "加入了轮换背景功能，修复了一些问题。",
+  "sha256": "d27123f5dfbbdfd9b9b44f10bc4a5b3447536ba1c042cd88c6b2562b918e2554"
 }
