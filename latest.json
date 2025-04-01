@@ -1,5 +1,5 @@
 {
-  "version": "V4.2",
+  "version": "V4.3",
   "files": {
     "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
     "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
@@ -8,6 +8,6 @@
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "修复了一些问题，不再定期更新适配器列表，完善背景切换机制，重新启用反馈功能。",
-  "sha256": "7645eeed15763e871e4d757db864b91b09f1b03e96377595ff49747ea2afbd9f"
+  "release_notes": "修复了一些问题。",
+  "sha256": "88bcbfa1af8d0dd0e0146d4e28a2b7141cf1006e3b459b6528cfacba55b35885"
 }
