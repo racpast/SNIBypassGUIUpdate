@@ -1,5 +1,5 @@
 {
-  "version": "V4.3",
+  "version": "V4.4",
   "files": {
     "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
     "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
@@ -8,6 +8,6 @@
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "修复了一些问题。",
-  "sha256": "88bcbfa1af8d0dd0e0146d4e28a2b7141cf1006e3b459b6528cfacba55b35885"
+  "release_notes": "修复了一些问题，加入日志追踪功能。",
+  "sha256": "96dabceef0998b4471e76e488cf5606448f7fc69db9073d97c97c60274b1e56a"
 }
