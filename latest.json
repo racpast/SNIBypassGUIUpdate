@@ -8,6 +8,6 @@
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "修复一些问题，优化程序性能，完善程序机制，添加部分站点。",
+  "release_notes": "调整工作进程数与最大并发连接数，减少内存占用。",
   "sha256": "f20757b1aa1277f2158c2f7fa9630f895651fde31d88873fc2258ea5debea62b"
 }
