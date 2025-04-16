@@ -1,0 +1,42 @@
+name: Sync Files to Website
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'files/**'
+
+jobs:
+  sync-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Repo
+        uses: actions/checkout@v4
+
+      - name: Clone Target Repo
+        env:
+          TARGET_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
+        run: |
+          # 使用 Token 克隆目标仓库
+          git clone "https://github.com/racpast/SNIBypassGUIWebsite.git" target-repo \
+            --branch main \
+            --config http.extraheader="Authorization: Bearer $TARGET_TOKEN"
+
+      - name: Clear Target Directory (Optional)
+        run: |
+          # 可选：清空目标仓库的 files/ 目录（确保完全同步）
+          rm -rf target-repo/files/*
+
+      - name: Copy Files Recursively
+        run: |
+          # 递归复制所有文件（保留目录结构）
+          cp -R files/. target-repo/files/
+
+      - name: Commit & Push Changes
+        run: |
+          cd target-repo
+          git config user.name "GitHub Actions Sync Bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Auto-sync files from SNIBypassGUIUpdate"
+          git push origin main
