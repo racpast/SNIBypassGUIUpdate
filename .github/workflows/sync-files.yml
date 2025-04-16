@@ -1,10 +1,11 @@
-name: Sync Files to Website
+name: Sync Files and Latest.json
 
 on:
   push:
     branches: [ main ]
     paths:
       - 'files/**'
+      - 'latest.json'
 
 jobs:
   sync-files:
@@ -23,7 +24,14 @@ jobs:
         run: rm -rf target-repo/files/*
 
       - name: Copy Files Recursively
-        run: cp -R files/. target-repo/files/
+        run: |
+          cp -R files/. target-repo/files/
+          cp latest.json target-repo/latest.json
+
+      - name: Replace GitHub URLs in latest.json
+        run: |
+          cd target-repo
+          sed -i 's|https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/|https://snibypassgui.netlib.re/files/|g' latest.json
 
       - name: Commit & Push Changes
         run: |
@@ -31,5 +39,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add -A
-          git commit -m "Auto-sync files from SNIBypassGUIUpdate"
+          git commit -m "Auto-sync files and update latest.json"
           git push origin main
