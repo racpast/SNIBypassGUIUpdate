@@ -800,6 +800,7 @@
 127.0.0.1 *.youtube.com
 127.0.0.1 *.*.youtube.com
 127.0.0.1 *.*.*.youtube.com
+127.0.0.1 youtu.be
 127.0.0.1 ytimg.com
 127.0.0.1 *.ytimg.com
 127.0.0.1 ggpht.com
