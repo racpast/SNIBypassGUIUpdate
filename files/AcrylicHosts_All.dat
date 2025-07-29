@@ -811,8 +811,8 @@
 127.0.0.1 *.youtube-3rd-party.com
 #	YouTube End
 #	Z-Library Start
-127.0.0.1 1lib.sk
-127.0.0.1 *.1lib.sk
-127.0.0.1 z-lib.fm
-127.0.0.1 *.z-lib.fm
+127.0.0.1 z-lib.help
+127.0.0.1 *.z-lib.help
+127.0.0.1 z-library.sk
+127.0.0.1 *.z-library.sk
 #	Z-Library End
