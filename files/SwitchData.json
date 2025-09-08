@@ -50,7 +50,7 @@
             "favicon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAQAAABLCVATAAADFElEQVRIx6WWv1MbVxDHP++kJGRGZ90f4MjXGxzozxOpBBXGZaLCuHJMlVQJqVyhuAouLNF5mLGgjDNjedwJG7lIhQbo/aT8AdxBCk0YtCk4Se9+BXmyV9y9fbvfe2/f2++uIkPm3Nw9a5EyDg7gKy16tH/5x1Azu9hrdseW9OfGof0gzUfFFYWyeoF7zZ80T853oqqcOXCcz+ts41y7ZIfVOefLP4fD1BU57uh3WfyECOiLyjRiagpz2bl2S/8BpcabujwcwyxQTHgMGKQiqZ5V8X0D6MZv8sN48gzoxxxuEfCaFt0k1NbZj5OBvWYesMipvEwc+7K8FC1HcjsxUyhPgT5GgZZFy3u5mXC5LZviy6O4/iNAHuy1eJADPNq0aU/GRxwTMKBOn6fArmnu2g/OdxQUDlXk0DeosQKc0Ao1RRZwaNAgAL7jKSscmy775xUcN5kGm9KXZZFYjLT0wwg9l/cxjznXulhNHmqdFnsxXZcFDnhDEahzBy8ym1u11Ddp96NOAzgOnzY1AB7jsw4ENNiI2Ftfq3iEpjL9Z4kNBlQBjz3mCfDY4yvTWCv7dIYkpUiXX2kBf/EtXeCMefO2+9YsMBCwG65wwK3wXTINHGsWmPGqAPyMWStzJgZS4zUAd8I8LBGYBn4eP21zUQYo8QtH7AIePl3AI4hcSaXzvEuyUIkPmAwwoEUdgO3wttc4iHhIPz/qWalk3qfNzzFdE6EOFLnLT5GZ0b712av0qFSp0jTGHm08qgCsI5OEvpLLVwrsDuX41k6YB9ooDrhK2iLNMGlrNKN3CNU7W8oDO3GgAS3esEKVEwaAT4Pj8JRqNHkcI17ZCj+ixJbNADfluZzK91nEBvJQdeIxqoPBAEUWuMs6R3jJMvDE+C5spZXnTRHRokWHPL6cYlMItzUpR6NOWnEcM0BWOULnliLl6P8XyEnS+jpXQX8KiuqZJdvIfl/nluTZrDDyzKqYvVKkGxkO/3n7RZ/FazlKy/2/t81eJEPstcJhVqNV6MzYaI3FcS/uqTKucq9aP3z2R73s1u9frKi8ZYAh3bsAAAAASUVORK5CYII=",
             "switchtitle": "Dailymotion",
             "linkstext": [
-                "dailymotion.com"
+                "www.dailymotion.com"
             ],
             "togglebuttonname": "dailymotionTB",
             "sectionname": "Dailymotion"
@@ -563,3 +563,4 @@
         }
     ]
 }
+
