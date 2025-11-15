@@ -456,6 +456,7 @@
 #	DLsite End
 #	Docker Hub Start
 127.0.0.1 hub.docker.com
+127.0.0.1 *.s3.us-east-1.amazonaws.com
 #	Docker Hub End
 #	Dropbox Start
 127.0.0.1 dropbox.com
