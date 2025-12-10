@@ -155,6 +155,8 @@
 127.0.0.1 *.googleweblight.com
 127.0.0.1 gmail.com
 127.0.0.1 *.gmail.com
+127.0.0.1 android.com
+127.0.0.1 *.android.com
 #	Google LLC End
 #	Gravatar Start
 127.0.0.1 gravatar.com

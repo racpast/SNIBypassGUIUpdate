@@ -212,6 +212,10 @@
 127.0.0.1 ajax.googleapis.com
 127.0.0.1 gmail.com
 127.0.0.1 www.gmail.com
+127.0.0.1 android.com
+127.0.0.1 developer.android.com
+127.0.0.1 flash.android.com
+127.0.0.1 console.cloud.google.com
 #	Google LLC End
 #	Gravatar Start
 127.0.0.1 gravatar.com
