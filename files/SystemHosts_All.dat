@@ -296,6 +296,12 @@
 127.0.0.1 www.pinimg.com
 #	Pinterest End
 #	Pixiv Start
+0.0.0.0 analytics.twitter.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 t.co
+0.0.0.0 pixon.ads-pixiv.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 fundingchoicesmessages.google.com
 127.0.0.1 pixiv.net
 127.0.0.1 www.pixiv.net
 127.0.0.1 ssl.pixiv.net
@@ -1082,5 +1088,6 @@
 127.0.0.1 z-lib.fm
 127.0.0.1 www.z-lib.fm
 #	Z-Library End
+
 
 
