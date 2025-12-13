@@ -227,6 +227,12 @@ FW discuss.ai.google.dev
 127.0.0.1 *.pinimg.com
 #	Pinterest End
 #	Pixiv Start
+NX analytics.twitter.com
+NX www.googletagmanager.com
+NX t.co
+NX pixon.ads-pixiv.net
+NX pagead2.googlesyndication.com
+NX fundingchoicesmessages.google.com
 127.0.0.1 pixiv.net
 127.0.0.1 *.pixiv.net
 127.0.0.1 *.*.pixiv.net
