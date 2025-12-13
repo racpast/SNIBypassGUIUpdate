@@ -216,6 +216,7 @@
 127.0.0.1 developer.android.com
 127.0.0.1 flash.android.com
 127.0.0.1 console.cloud.google.com
+127.0.0.1 ai.google.dev
 #	Google LLC End
 #	Gravatar Start
 127.0.0.1 gravatar.com
@@ -367,6 +368,8 @@
 127.0.0.1 www.redditmedia.com
 127.0.0.1 redditstatic.com
 127.0.0.1 www.redditstatic.com
+104.18.36.123 redgifs.com
+104.18.36.123 www.redgifs.com
 #	Reddit End
 #	RFI Start
 127.0.0.1 rfi.fr

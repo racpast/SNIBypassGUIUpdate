@@ -125,6 +125,7 @@
 127.0.0.1 *.github.io
 #	Github End
 #	Google LLC Start
+FW discuss.ai.google.dev
 127.0.0.1 googleapis.com
 127.0.0.1 *.googleapis.com
 127.0.0.1 *.*.googleapis.com
@@ -268,6 +269,7 @@
 127.0.0.1 *.redditmedia.com
 127.0.0.1 redditstatic.com
 127.0.0.1 *.redditstatic.com
+104.18.36.123 >redgifs.com
 #	Reddit End
 #	RFI Start
 127.0.0.1 rfi.fr
