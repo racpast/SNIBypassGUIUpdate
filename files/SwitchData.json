@@ -491,7 +491,7 @@
         },
         {
             "favicon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAATCAMAAACuuX39AAABoVBMVEUAAADf397c3NvX19fW1tbY2Nja2tvf39/W1dXa2dnj4+Pl5eXb2trV1dXNzc3e3t7g4ODPzs7JycnLy8udnZ2wsLCzs7OhoaKMjIucnZ2srKyioqKSkpJ1dXWFhYWTk5Sbm5qZmZmMjIx2dXXX19fY2Njq6urs7O3s7Ozt7e3u7u7u7u3r7Ovl5eXo6Ojp6enr6+vq6enm5ubh4eHk5ORqampNTU3j4+PGx8bg4N/o6Onp6unFxsbJycnDw8Pc3Nzf39/i4uLg4OCenp6JiYknJyfV1dWwsLBeXl7GxsfBwcHZ2dnd3d1vb2+/v79PT09nZ2eZmZm9vb3W1tbb29slJSWPj4+CgoLw8PAxMTHR0dHe3t7a2tq5ubnT09NjY2NKSkplZWWMjIyBgYE5OTm2trbPz8/U1NSmpqZpaWm6urqysbLKysrU1NWlpaVtbW3l5uV3d3eTk5O1tbWrq6vExMTOzs63t7evr6+8vLyysrIvLy9MTEwuLi7MzMzHx8eqqqrIyMjLy8vNzc29vr27u7u+vr7CwsKioqKkpKShoaG3iM44AAAAJHRSTlMAXsz4/vrOYMzy/f7zzfj9/fj+/vr+/vrN8/300GDM+P760WDvuYYCAAABFklEQVQY02NgQAeMTMwsKiqqIKCiwsrGzsDByaWmrqGpqaWtqa7DzcPLwMevq6evZqChoWGgZmgkIMggZGxiBBIxMFAzMTUzF2awsASKWAGVGFib2pgY2zLY2Ts4Ojm7uLoZuHvoOjp4Mnh5+xj7+tn5a2oEBJo4+dgxBAWHOISahIVHaEVGmUfHeDHExqnaxzsmJCYlp+g62asEMaSmpXtHR0caaWZkOvqoxmUxZOek5Xrn5RcYFRb5eKenFTOUlNqmlRVGRTsklKvEldlWMORVVlXXeMUFB9fWBNbVezUwiIjG+pU2NtU1Nzc12rWIiTNISEqltrZ5tdu1e7XFikrLMMjKySs4d3Tm5eV1djkrKikzEAQAQoBE3bTFs6gAAAAASUVORK5CYII=",
-            "switchtitle": "Wallhaven（未完整支持）",
+            "switchtitle": "Wallhaven",
             "linkstext": [
                 "wallhaven.cc"
             ],
