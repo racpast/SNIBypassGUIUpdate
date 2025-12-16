@@ -1,13 +1,13 @@
 {
-  "version": "V4.6",
+  "version": "V4.7",
   "files": {
     "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/AcrylicHosts_All.dat",
-    "SystemHosts_All.dat": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SystemHosts_All.dat",
+    "SystemHosts_All.dat": "",
     "SwitchData.json": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SwitchData.json",
     "SNIBypassCrt.crt": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassCrt.crt",
     "nginx.conf": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/nginx.conf",
     "SNIBypassGUI.exe": "https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/SNIBypassGUI.exe"
   },
-  "release_notes": "调整工作进程数与最大并发连接数，减少内存占用。",
-  "sha256": "f20757b1aa1277f2158c2f7fa9630f895651fde31d88873fc2258ea5debea62b"
+  "release_notes": "修复了未能正确记录适配器原信息的问题，调整了更新来源。",
+  "sha256": "34742ac63639a0d715b5ce3e048109c2ca34b6931908e1a6d7671040cce519a4"
 }

@@ -18,7 +18,7 @@ jobs:
         env:
           TARGET_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
         run: |
-          git clone "https://x-access-token:$TARGET_TOKEN@github.com/racpast/SNIBypassGUIWebsite.git" target-repo
+          git clone "https://x-access-token:$TARGET_TOKEN@github.com/racpast/snib.racpast.com.git" target-repo
 
       - name: Clear Target Directory
         run: rm -rf target-repo/files/*
@@ -31,7 +31,7 @@ jobs:
       - name: Replace GitHub URLs in latest.json
         run: |
           cd target-repo
-          sed -i 's|https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/|https://snibypassgui.netlib.re/files/|g' latest.json
+          sed -i 's|https://raw.githubusercontent.com/racpast/SNIBypassGUIUpdate/main/files/|https://snib.racpast.com/files/|g' latest.json
 
       - name: Commit & Push Changes
         run: |
